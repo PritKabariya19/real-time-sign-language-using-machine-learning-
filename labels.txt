@@ -1,5 +1,5 @@
 0 hello
 1 done
 2 i love you
-3 KHUSHI
+3 happy
 4 yes
